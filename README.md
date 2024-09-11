@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @unique40244
+- 👋 Hi, I’m Ashutosh
 - 👀 I’m interested in cyber security (hacking)
 - 🌱 I’m currently learning AIML
-- 💞️ I’m looking to collaborate on AMAZON , GOOGLE 
-- 📫  reach me by instagram i'd = __unique_biy_420
-- 
+- 📫  reach me by Linkedin id = https://www.linkedin.com/in/ashutosh-dhingra-b9313a276/
+
 
 <!---
 unique40244/unique40244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
